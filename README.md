@@ -29,3 +29,6 @@ m-m.csv: miRNA-miRNA similarity matrix.
 disease name.csv: list of disease names.
 miRNA name.csv: list of miRNA names
 m-d.csv: miRNA-disease association matrix
+
+Citation information : 
+Jin Li, Sai Zhang, Tao Liu, Chenxi Ning, Zhuoxuan Zhang, Wei Zhou, Neural Inductive Matrix Completion with Graph Convolutional Networks for miRNA-disease Association Prediction, Bioinformatics, , btz965, https://doi.org/10.1093/bioinformatics/btz965
