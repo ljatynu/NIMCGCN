@@ -31,4 +31,4 @@ miRNA name.csv: list of miRNA names
 m-d.csv: miRNA-disease association matrix
 
 Citation information : 
-Jin Li, Sai Zhang, Tao Liu, Chenxi Ning, Zhuoxuan Zhang, Wei Zhou, Neural Inductive Matrix Completion with Graph Convolutional Networks for miRNA-disease Association Prediction, Bioinformatics, , btz965, https://doi.org/10.1093/bioinformatics/btz965
+Jin Li, Sai Zhang, Tao Liu, Chenxi Ning, Zhuoxuan Zhang and Wei Zhou. Neural inductive matrix completion with graph convolutional networks for miRNA-disease association prediction. Bioinformatics, Volume 36, Issue 8, 15 April 2020, Pages 2538–2546. doi: 10.1093/bioinformatics/btz965.
